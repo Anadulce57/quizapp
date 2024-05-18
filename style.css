@@ -157,6 +157,10 @@ main{
         margin-block: 81px;
     }
 
+    .tema{
+        gap: 16px;
+    }
+
     .tema img{
         width: 24px;
     }
@@ -169,10 +173,6 @@ main{
     .tema button div{
         width: 20px;
         height: 20px;
-    }
-
-    .tema{
-        gap: 16px;
     }
 
     main{
