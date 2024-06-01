@@ -321,10 +321,10 @@ main{
         width: 56px;
         height: 56px;
         font-size: 28px;
+    }
 
     .alternativas button{
         font-size: 22px;
     }
-
-    }
+    
 }
